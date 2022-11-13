@@ -26,7 +26,8 @@ ctypes.windll.kernel32.SetConsoleTitleW(f"[REPORT BOT] By dev | Dont Skid Me ;) 
 
 print(f"""
 
-{b+Fore.BLUE}  _____                       _       ____        _   
+{b+Fore.BLUE} 
+  _____                       _       ____        _   
  |  __ \                     | |     |  _ \      | |  
  | |__) |___ _ __   ___  _ __| |_    | |_) | ___ | |_ 
  |  _  // _ \ '_ \ / _ \| '__| __|   |  _ < / _ \| __|
