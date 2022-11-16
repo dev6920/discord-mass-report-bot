@@ -1,6 +1,6 @@
 #######################################################
 #                                                     #
-# Made By dev#1337 | Dont Fucking Skid It.            #
+# Made By egirl dev#9474 | Dont Fucking Skid It.      #
 #                                                     #
 #######################################################
 
@@ -38,7 +38,7 @@ print(f"""
 
 Discord.gg/hour
 
-{b+Fore.BLUE} > {Fore.RESET}Creator: dev#1337
+{b+Fore.BLUE} > {Fore.RESET}Creator: egirl dev#9474
 
 {b+Fore.BLUE} > {Fore.RESET}Options
 
