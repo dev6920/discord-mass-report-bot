@@ -10,5 +10,6 @@
  Paste the message ID.
  Select a reasonable reason to the report.
  All set!
+ [![Downloads](https://pepy.tech/badge/mailtm)](https://pepy.tech/project/mailtm)
   
 
