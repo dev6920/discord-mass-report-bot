@@ -10,6 +10,6 @@
  Paste the message ID.
  Select a reasonable reason to the report.
  All set!
- [![Downloads](https://pepy.tech/badge/mailtm)](https://pepy.tech/project/mailtm)
+ [![Downloads](https://pepy.tech/badge/discord-mass-report-bot)](https://pepy.tech/project/discord-mass-report-bot)
   
 
